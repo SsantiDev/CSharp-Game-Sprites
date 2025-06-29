@@ -8,11 +8,15 @@
 
 ## 🎮 Características Principales
 
+- Movimiento: W-A-S-D
 - Juego 2D de combate entre personajes y enemigos.
 - Uso intensivo de clases para modelar entidades y lógica del juego.
 - Manejo básico de interfaz gráfica, colisiones, y sistema de combate.
 - Implementación de una barra de vida, puntajes y sistema de audio.
 - Utiliza la biblioteca [NAudio](https://github.com/naudio/NAudio) para el manejo del audio.
+- Interfaz gráfica desarrollada en **Windows Forms (.NET Framework)**.
+- Disparo: Presiona la tecla **Z** para lanzar un proyectil.- El disparo del proyectil se realiza con la tecla **Z** por defecto.
+
 
 ---
 
